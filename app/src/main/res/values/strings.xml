@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- errors -->
+    <string name="error_register_failed">Registration Failed.</string>
+    <string name="error_week_password">Please enter a strong password.</string>
+    <string name="error_cancelled">Cancelled.</string>
+    <string name="error_required_fields">Please enter required fields.</string>
+    <string name="error_different_passwords">Please enter same passwords.</string>
+    <string name="error_authentication_failed">Authentication failed.</string>
+    <string name="error_login_failed">Unable to login.</string>
+    <string name="error_save_profile_image_failed">Unable to save profile image.</string>
+    <string name="error_save_image_failed">Unable to save image.</string>
+    <string name="error_no_comment">Please enter a comment</string>
+    <string name="error_save_comment_failed">Unable to save comment</string>
+    <!-- errors -->
+
+
+    <string name="app_name">Photosharing</string>
+    <string name="login_title">Login to your app</string>
+    <string name="register_title">Register</string>
+    <string name="profile_title">Profile</string>
+    <string name="or">OR</string>
+    <string name="log_in">LOG IN</string>
+    <string name="password">Password*</string>
+    <string name="email">Email*</string>
+    <string name="sign_up">sign up</string>
+    <string name="reminder">Set Display Picture</string>
+    <string name="username">Username*</string>
+    <string name="bio">A short bio</string>
+    <string name="confirm_psw">Confirm Password*</string>
+    <string name="profile_pic">User Profile</string>
+    <string name="login_banner">Login to your app</string>
+    <string name="register_banner">Register</string>
+    <string name="logout_button">Logout</string>
+    <string name="profileImage">profile image</string>
+    <string name="whole_image">whole image</string>
+    <string name="title_activity_global">Photos</string>
+    <string name="title_activity_caption">Caption</string>
+    <string name="caption_image">Caption Image</string>
+    <string name="caption_description">description</string>
+    <string name="auto_generate">Generate HashTags</string>
+    <string name="upload">Upload</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_comment">CommentActivity</string>
+    <string name="comment">comment</string>
+    <string name="comment_input">Please enter your comment</string>
+    <string name="delete_button">Delete</string>
+    <string name="send">Send</string>
+    <string name="comment_avatar">comment avatar</string>
+    <string name="comment_user">Comment user</string>
+    <string name="comment_description">Comment description</string>
+    <string name="full_image">full image</string>
+    <string name="captured_by">Captured by %1$s</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
