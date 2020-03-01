@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.exp.sign">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/yd"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PersonActivity"
+            android:label="UserInfo" />
+        <activity
+            android:name=".FillInfoActivity"
+            android:label="Modify Info" />
+        <activity
+            android:name=".CPWDActivity"
+            android:label="Modify Password" />
+        <activity
+            android:name=".UsersActivity"
+            android:label="Users" />
+        <activity
+            android:name=".ReceivedActivity"
+            android:label="Received" />
+        <activity
+            android:name=".PartnersActivity"
+            android:label="Partners" />
+        <activity
+            android:name=".ExActivity"
+            android:label="Exercises" />
+        <activity
+            android:name=".BigActivity"
+            android:label="Big Image" />
+        <activity
+            android:name=".XActivity"
+            android:label="Home" />
+        <activity
+            android:name=".RegisterActivity"
+            android:theme="@style/AppTheme3" />
+
+        <service
+            android:name=".GpsService"
+            android:label="GPS" />
+
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.5" />
+
+        <provider
+            android:name="cn.bmob.v3.util.BmobContentProvider"
+            android:authorities="com.exp.sign.BmobContentProvider"></provider>
+
+    </application>
+
+</manifest>
