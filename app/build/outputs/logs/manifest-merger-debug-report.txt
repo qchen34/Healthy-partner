@@ -1,0 +1,371 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [cn.bmob.android:bmob-sdk:3.7.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/b20daf4c16307f37a4dfff33d0412db9/bmob-sdk-3.7.4/AndroidManifest.xml:2:1-16:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f47418580b3fcd7f8b75c85c127032e/rxandroid-2.1.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.lxj:xpopup:1.8.10] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/58e27c820820be10cfc2531d0f3c120a/xpopup-1.8.10/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/477fb9b7d57796b41927964ca53e767f/butterknife-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/7e5853828a3814d3ec6d0af90cb75155/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:2:1-51:12
+MERGED from [com.wang.avi:library:2.1.3] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/0ab984f4ce08ab58a9662422f8f96f62/library-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/998c3c2bb7cdab9ed1971e65a54a8f27/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.lxj:easyadapter:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/aa014810627dc8734d3ee6c747954bbe/easyadapter-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/164c64291bc912d5edc1f31d2eb396ed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f7f06812e8df032206dd397bc92d8fe2/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/68a9c65d186be5eb4422aae71436d5ab/library-1.2.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/72659080f96d0eeae12fadfeb3692e98/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/18175a651b5c597ceba2ce20e16c0a33/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/66c53d91cf052f265b7671f22408e8f7/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/2a89d79a5f0db1b227a50b133ee9cbc3/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/579e012078caf6f5dabd3c9e18a261b5/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/821b4213ff72b39582182b744396f7ff/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/5042d4549a6d7176be928fb71a49200f/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/a9250f3d6667bf0c7060199f9e7c3220/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/c6b8361ddafcea72194f1f3cac427476/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/73c68e15410f2c37c1d0908045c32549/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/5413cc0cb319f80aeb4527a555617675/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/219c4c7ff498c7a042b1a58eb871af9d/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/0864ac72a33f4de98cbe8495c8b9dc8a/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6cf6931bafcd3b7805da4d47544022e0/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/71ee1be13d16c8c7ae0e28d52310d8c3/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/045e112e02df522cf59aa8c42d4d4877/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f57925858690f10cd80301451caddda/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f8320673121217bc2b2bc1e715dc1039/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/e53626ae06aa7762cf3fe2510dd924d1/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d5f3a6fb798684f9178ff771839ebf51/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/3a4bc484e32993b514c76a93ca44fd4a/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/8cd91064fae2dc4bafdcc8da5745bb81/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/257e0b22cf4dab9069be0da8a63d21a4/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/efb195b7f89243ee573f90db6afde80d/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/c4976a15f93b075a84ae789ddd1852b9/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/87df4d220d032fb5068e4f9a3d8cea31/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/23890bf84710e75a3006b12044c4e056/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/164a3b752af80828e4234472738e70dc/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/08140668bec00f09cb68ce672dd2b793/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:4:5-27
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:8:5-65
+MERGED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:18:5-65
+MERGED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:10:5-62:19
+MERGED from [cn.bmob.android:bmob-sdk:3.7.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/b20daf4c16307f37a4dfff33d0412db9/bmob-sdk-3.7.4/AndroidManifest.xml:11:5-14:19
+MERGED from [cn.bmob.android:bmob-sdk:3.7.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/b20daf4c16307f37a4dfff33d0412db9/bmob-sdk-3.7.4/AndroidManifest.xml:11:5-14:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/7e5853828a3814d3ec6d0af90cb75155/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/7e5853828a3814d3ec6d0af90cb75155/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:20:5-49:19
+MERGED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:20:5-49:19
+MERGED from [com.android.support:design:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/998c3c2bb7cdab9ed1971e65a54a8f27/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/998c3c2bb7cdab9ed1971e65a54a8f27/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:11:5-20:19
+MERGED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:11:5-20:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f57925858690f10cd80301451caddda/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f57925858690f10cd80301451caddda/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f8320673121217bc2b2bc1e715dc1039/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f8320673121217bc2b2bc1e715dc1039/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f57925858690f10cd80301451caddda/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:15:9-48
+	android:allowBackup
+		ADDED from [cn.bmob.android:bmob-sdk:3.7.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/b20daf4c16307f37a4dfff33d0412db9/bmob-sdk-3.7.4/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:11:9-34
+	android:theme
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.exp.sign.MainActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:theme
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.exp.sign.PersonActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:25:9-27:40
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:26:13-43
+activity#com.exp.sign.FillInfoActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:28:9-30:43
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:30:13-40
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:29:13-45
+activity#com.exp.sign.CPWDActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:31:9-33:47
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:32:13-41
+activity#com.exp.sign.UsersActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:34:9-36:37
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:36:13-34
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:35:13-42
+activity#com.exp.sign.ReceivedActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:37:9-39:40
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:38:13-45
+activity#com.exp.sign.PartnersActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:40:9-42:40
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:41:13-45
+activity#com.exp.sign.ExActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:43:9-45:41
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:45:13-38
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:44:13-39
+activity#com.exp.sign.XActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:46:9-48:36
+	android:label
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:48:13-33
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:47:13-38
+activity#com.exp.sign.RegisterActivity
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:49:9-51:48
+	android:theme
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:50:13-45
+meta-data#android.max_aspect
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:53:9-55:35
+	android:value
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:55:13-32
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:54:13-46
+provider#cn.bmob.v3.util.BmobContentProvider
+ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:57:9-60:54
+	android:authorities
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:59:13-67
+	tools:ignore
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:60:13-51
+	android:name
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml:58:13-63
+uses-sdk
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+MERGED from [cn.bmob.android:bmob-sdk:3.7.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/b20daf4c16307f37a4dfff33d0412db9/bmob-sdk-3.7.4/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-sdk:3.7.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/b20daf4c16307f37a4dfff33d0412db9/bmob-sdk-3.7.4/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f47418580b3fcd7f8b75c85c127032e/rxandroid-2.1.0/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f47418580b3fcd7f8b75c85c127032e/rxandroid-2.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.lxj:xpopup:1.8.10] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/58e27c820820be10cfc2531d0f3c120a/xpopup-1.8.10/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:xpopup:1.8.10] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/58e27c820820be10cfc2531d0f3c120a/xpopup-1.8.10/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/477fb9b7d57796b41927964ca53e767f/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/477fb9b7d57796b41927964ca53e767f/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/7e5853828a3814d3ec6d0af90cb75155/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/7e5853828a3814d3ec6d0af90cb75155/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/0ab984f4ce08ab58a9662422f8f96f62/library-2.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/0ab984f4ce08ab58a9662422f8f96f62/library-2.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/998c3c2bb7cdab9ed1971e65a54a8f27/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/998c3c2bb7cdab9ed1971e65a54a8f27/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.lxj:easyadapter:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/aa014810627dc8734d3ee6c747954bbe/easyadapter-1.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:easyadapter:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/aa014810627dc8734d3ee6c747954bbe/easyadapter-1.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/164c64291bc912d5edc1f31d2eb396ed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/164c64291bc912d5edc1f31d2eb396ed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f7f06812e8df032206dd397bc92d8fe2/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f7f06812e8df032206dd397bc92d8fe2/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/68a9c65d186be5eb4422aae71436d5ab/library-1.2.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/68a9c65d186be5eb4422aae71436d5ab/library-1.2.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/72659080f96d0eeae12fadfeb3692e98/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/72659080f96d0eeae12fadfeb3692e98/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/18175a651b5c597ceba2ce20e16c0a33/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/18175a651b5c597ceba2ce20e16c0a33/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/66c53d91cf052f265b7671f22408e8f7/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/66c53d91cf052f265b7671f22408e8f7/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/2a89d79a5f0db1b227a50b133ee9cbc3/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/2a89d79a5f0db1b227a50b133ee9cbc3/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/579e012078caf6f5dabd3c9e18a261b5/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/579e012078caf6f5dabd3c9e18a261b5/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/821b4213ff72b39582182b744396f7ff/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/821b4213ff72b39582182b744396f7ff/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/5042d4549a6d7176be928fb71a49200f/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/5042d4549a6d7176be928fb71a49200f/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/a9250f3d6667bf0c7060199f9e7c3220/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/a9250f3d6667bf0c7060199f9e7c3220/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/c6b8361ddafcea72194f1f3cac427476/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/c6b8361ddafcea72194f1f3cac427476/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/73c68e15410f2c37c1d0908045c32549/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/73c68e15410f2c37c1d0908045c32549/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/5413cc0cb319f80aeb4527a555617675/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/5413cc0cb319f80aeb4527a555617675/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/219c4c7ff498c7a042b1a58eb871af9d/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/219c4c7ff498c7a042b1a58eb871af9d/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/0864ac72a33f4de98cbe8495c8b9dc8a/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/0864ac72a33f4de98cbe8495c8b9dc8a/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6cf6931bafcd3b7805da4d47544022e0/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6cf6931bafcd3b7805da4d47544022e0/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/71ee1be13d16c8c7ae0e28d52310d8c3/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/71ee1be13d16c8c7ae0e28d52310d8c3/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/045e112e02df522cf59aa8c42d4d4877/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/045e112e02df522cf59aa8c42d4d4877/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f57925858690f10cd80301451caddda/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/6f57925858690f10cd80301451caddda/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f8320673121217bc2b2bc1e715dc1039/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/f8320673121217bc2b2bc1e715dc1039/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/e53626ae06aa7762cf3fe2510dd924d1/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/e53626ae06aa7762cf3fe2510dd924d1/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d5f3a6fb798684f9178ff771839ebf51/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d5f3a6fb798684f9178ff771839ebf51/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/3a4bc484e32993b514c76a93ca44fd4a/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/3a4bc484e32993b514c76a93ca44fd4a/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/8cd91064fae2dc4bafdcc8da5745bb81/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/8cd91064fae2dc4bafdcc8da5745bb81/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/257e0b22cf4dab9069be0da8a63d21a4/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/257e0b22cf4dab9069be0da8a63d21a4/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/efb195b7f89243ee573f90db6afde80d/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/efb195b7f89243ee573f90db6afde80d/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/c4976a15f93b075a84ae789ddd1852b9/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/c4976a15f93b075a84ae789ddd1852b9/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/87df4d220d032fb5068e4f9a3d8cea31/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/87df4d220d032fb5068e4f9a3d8cea31/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/23890bf84710e75a3006b12044c4e056/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/23890bf84710e75a3006b12044c4e056/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/164a3b752af80828e4234472738e70dc/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/164a3b752af80828e4234472738e70dc/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/08140668bec00f09cb68ce672dd2b793/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/08140668bec00f09cb68ce672dd2b793/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiweichen/Desktop/Project/SignApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:12:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:16:22-77
+activity#com.lzy.imagepicker.ui.ImageBaseActivity
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:21:9-77
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:21:19-74
+activity#com.lzy.imagepicker.ui.ImageGridActivity
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:22:9-25:55
+	android:configChanges
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:25:13-52
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:23:13-68
+activity#com.lzy.imagepicker.ui.ImageCropActivity
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:26:9-30:55
+	android:hardwareAccelerated
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:29:13-48
+	android:configChanges
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:28:13-59
+	android:theme
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:27:13-68
+activity#com.lzy.imagepicker.ui.ImagePreviewActivity
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:31:9-34:65
+	android:configChanges
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:33:13-59
+	android:theme
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:34:13-62
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:32:13-71
+activity#com.lzy.imagepicker.ui.ImagePreviewDelActivity
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:35:9-38:65
+	android:configChanges
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:37:13-59
+	android:theme
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:38:13-62
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:36:13-74
+provider#com.lzy.imagepicker.ImagePickerProvider
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:40:9-48:20
+	android:grantUriPermissions
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:44:13-47
+	android:authorities
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:42:13-60
+	android:exported
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:41:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:45:13-47:58
+	android:resource
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.6.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/d6746db69fd4faa2dfb1e8f02ab7858c/imagepicker-0.6.1/AndroidManifest.xml:46:17-67
+meta-data#android.notch_support
+ADDED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:12:9-14:36
+	android:value
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:14:13-33
+	android:name
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:13:13-49
+activity#com.lxj.xpermission.XPermission$PermissionActivity
+ADDED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:17:9-19:75
+	android:theme
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/qiweichen/.gradle/caches/transforms-2/files-2.1/4cf9162fc424bc24c2c7b549eb9dc3c6/xpermission-1.0.1/AndroidManifest.xml:18:13-78
