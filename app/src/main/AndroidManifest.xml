@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.exp.sign">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:icon="@mipmap/yd"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PersonActivity"
+            android:label="UserInfo" />
+        <activity
+            android:name=".FillInfoActivity"
+            android:label="Modify Info" />
+        <activity
+            android:name=".CPWDActivity"
+            android:label="Modify Password" />
+        <activity
+            android:name=".UsersActivity"
+            android:label="Users" />
+        <activity
+            android:name=".ReceivedActivity"
+            android:label="Received" />
+        <activity
+            android:name=".PartnersActivity"
+            android:label="Partners" />
+        <activity
+            android:name=".ExActivity"
+            android:label="Exercises" />
+        <activity
+            android:name=".XActivity"
+            android:label="Home" />
+        <activity
+            android:name=".RegisterActivity"
+            android:theme="@style/AppTheme3" />
+
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.5" />
+
+        <provider
+            android:name="cn.bmob.v3.util.BmobContentProvider"
+            android:authorities="com.exp.sign.BmobContentProvider"
+            tools:ignore="ExportedContentProvider" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5f8fdd">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profile_image"
+            android:layout_marginTop="10dp">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cv_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="6dp"
+                app:cardElevation="3dp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="50dp"
+                        android:layout_marginTop="25dp"
+                        android:text="Exercises"
+                        android:textColor="#fff"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:orientation="horizontal"
+                        android:paddingStart="50dp"
+                        android:layout_marginTop="30dp"
+                        android:paddingEnd="30dp">
+
+                        <android.support.design.widget.TextInputLayout
+
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColorHint="#f0f7f4"
+                            android:theme="@style/TextLabel">
+
+                            <TextView
+                                android:id="@+id/ava"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/selector_bg_edit_2"
+                                android:text="Availability time"
+                                android:inputType="number"
+                                android:paddingBottom="2dp"
+                                android:textColor="#f0f7f4"
+                                android:textCursorDrawable="@drawable/bg_input_cursor_2"
+                                android:textSize="13sp" />
+                        </android.support.design.widget.TextInputLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:paddingStart="50dp"
+                        android:paddingEnd="30dp">
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColorHint="#f0f7f4"
+                            android:theme="@style/TextLabel">
+
+                            <TextView
+                                android:id="@+id/goal"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/selector_bg_edit_2"
+                                android:text="Goal of training"
+                                android:inputType="text"
+                                android:paddingBottom="2dp"
+                                android:textColor="#f0f7f4"
+                                android:textCursorDrawable="@drawable/bg_input_cursor_2"
+                                android:textSize="13sp" />
+                        </android.support.design.widget.TextInputLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:orientation="horizontal"
+                        android:paddingStart="50dp"
+                        android:paddingEnd="30dp">
+
+                        <android.support.design.widget.TextInputLayout
+
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColorHint="#f0f7f4"
+                            android:theme="@style/TextLabel">
+
+                            <EditText
+                                android:id="@+id/ints"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/selector_bg_edit_2"
+                                android:hint="interests of sports"
+                                android:paddingBottom="2dp"
+                                android:textColor="#f0f7f4"
+                                android:textCursorDrawable="@drawable/bg_input_cursor_2"
+                                android:textSize="13sp" />
+                        </android.support.design.widget.TextInputLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:orientation="horizontal"
+                        android:paddingStart="50dp"
+                        android:paddingEnd="30dp">
+
+                        <android.support.design.widget.TextInputLayout
+
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColorHint="#f0f7f4"
+                            android:theme="@style/TextLabel">
+
+                            <TextView
+                                android:id="@+id/age"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/selector_bg_edit_2"
+                                android:text="Age group"
+                                android:inputType="number"
+                                android:paddingBottom="2dp"
+                                android:textColor="#f0f7f4"
+                                android:textCursorDrawable="@drawable/bg_input_cursor_2"
+                                android:textSize="13sp" />
+                        </android.support.design.widget.TextInputLayout>
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bt_go"
+                        android:layout_width="150dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="15dp"
+                        android:background="@drawable/bt_shape_2"
+                        android:onClick="next"
+                        android:stateListAnimator="@drawable/state_list_animator_z"
+                        android:text="OK"
+                        android:textColor="#00CCCC"></Button>
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|top"
+                android:src="@drawable/plus_x"
+                android:transitionName="loginFab"
+                android:visibility="gone"
+                app:backgroundTint="@color/jupiterchain"
+                app:fabSize="normal" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:indicatorColor="#ffFF4081"
+        app:indicatorName="LineSpinFadeLoaderIndicator" />
+
+</RelativeLayout>
